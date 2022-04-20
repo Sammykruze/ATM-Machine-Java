@@ -20,7 +20,7 @@ public class OptionMenu extends Account {
                 data.put(23334445, 3456);
                 data.put(24389900, 4589);
 
-                System.out.println("Welcome to the ATM project");
+                System.out.println("Welcome to ATM project");
                 System.out.println("Enter your Account number");
                 setCustomerNumber(menuInput.nextInt());
 
